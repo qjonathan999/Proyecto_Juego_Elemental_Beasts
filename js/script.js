@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function generarNumeroAleatorio(max,min) {
     return Math.floor(Math.random(max-min+1)+min)    
 }
@@ -5,6 +6,11 @@ function generarNumeroAleatorio(max,min) {
 //1 piedra, 2 papel, 3 tijera
 let jugador=0
 let pc=generarNumeroAleatorio(3,1)
+=======
+//1 piedra, 2 papel, 3 tijera
+let jugador=0
+let pc=2
+>>>>>>> 4388bc698c67091007220f038031510c8073bda5
 
 jugador=window.prompt("Elije una opcion: \n1 para piedra \n2 para papel \n3 para tijera")
 //alert("Elegiste: "+jugador)
