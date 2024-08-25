@@ -1,2 +1,2 @@
-# Proyecto_Juego_PPT
-Repositorio del proyecto web para el juego piedra, papel o tijera
+# Proyecto_Juego_Elemental_Beasts
+Repositorio del proyecto web para el juego de batalla entre mascotas con poderes
